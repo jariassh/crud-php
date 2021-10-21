@@ -1,0 +1,28 @@
+/** @format */
+
+section {
+  min-height: calc(100vh - 76px);
+}
+
+/* .card-content {
+  float: left;
+  height: 350px;
+} */
+
+/* .col-5th {
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+  flex: 0 0 20% !important;
+  max-width: 20% !important;
+} */
+
+.tituloCurso {
+  line-height: 20px;
+}
+
+footer {
+  height: 60px;
+  color: #fff;
+}
